@@ -1,0 +1,33 @@
+
+.H3
+{
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;     
+}
+
+#input_id
+{
+    width: 30%;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+footer{
+width: 100%;
+background-color: grey;
+color: white;
+font-size: 15px;
+bottom: 0;
+line-height: 2;
+text-align: center;
+position: fixed;
+}
+
+canvas
+{
+    height: 300px;
+    width: 400px;
+    box-shadow: 5px 5px 3px 3px black;
+    
+}
